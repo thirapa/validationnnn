@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "validaion.js",
+  "keywords": ["validation"],
+  "author": "Thirapa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirapa/validationnnn.git"
+  },
+  "homepage": "https://github.com/thirapa/validationnnn#readme",
+  "bugs": {
+    "url": "https://github.com/thirapa/validationnnn/issues"
+  }
+}
